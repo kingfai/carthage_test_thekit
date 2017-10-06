@@ -10,7 +10,7 @@ github "ReactiveX/RxSwift" ~> 3.3.1
 github "iosdevzone/IDZSwiftCommonCrypto" ~> 0.9.2
 github "atlassian/NYTPhotoViewer" "1.2.0-atlassian-2"
 # this is a big test binary which is pspdfkit in our real Cartfile
-binary "https://www.dropbox.com/s/qtd0kiaqwb4vcnv/bigbinary.json?dl=1" ~> 6.5.1
+# binary "https://www.dropbox.com/s/qtd0kiaqwb4vcnv/bigbinary.json?dl=1" ~> 6.5.1
 github "TextureGroup/Texture" == 2.3.3
 github "typelift/Focus" "c3f6dbcc6a05bd6ceac74160c9a771231d7df2b9" # TODO: Use next version > 0.3.2
 github "Flipboard/FLAnimatedImage" == 1.0.12
